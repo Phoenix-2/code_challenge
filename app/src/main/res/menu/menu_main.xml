@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.garner.codechallenge.MainActivity">
+    <item
+        android:id="@+id/menu_option_add_image"
+        android:orderInCategory="100"
+        android:title="Download"
+        app:showAsAction="always" />
+</menu>

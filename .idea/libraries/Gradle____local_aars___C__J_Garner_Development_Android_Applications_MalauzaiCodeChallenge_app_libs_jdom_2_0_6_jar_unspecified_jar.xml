@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\J-Garner\Development\Android Applications\MalauzaiCodeChallenge\app\libs\jdom-2.0.6.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jdom-2.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jdom-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
